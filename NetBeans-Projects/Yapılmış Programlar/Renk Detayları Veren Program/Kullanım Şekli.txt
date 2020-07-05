@@ -1,0 +1,11 @@
+@author Yunus Emre
+
+-> Öncelikle "RenkDetayları" adlı dosyanın uzantısını ".jar" yapınız.
+-> (Posta'dan .jar uzantılı dosyalar güvenlik sebebiyle aktarılamamaktadır. ) Sonra çalıştırınız.
+
+Program Kullanımı:
+
+-> Sol tık ile reng'in tam ekran halini görebilirsiniz.
+-> Sağ'tık ile renk'lerin başlangıçtaki ekranına gelirsiniz
+-> Sol kenardaki şeride basılı tutarak (tıkladıktan sonra mouse ekranın dışında bile) veya tıklayarak reng'in parlaklığını ayarlarsınız.
+-> Sol şeritte en alttaki = 1F Parlaklığı en üstteki 0F parlaklığıdır.
